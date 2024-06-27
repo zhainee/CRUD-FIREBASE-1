@@ -1,0 +1,34 @@
+body {
+  background-color: rgb(226, 198, 207);
+}
+.container {
+  width: 400px;
+  margin: 50px auto;
+  padding: 20px;
+  /* border: 3px solid red; */
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 16px;
+  background-color: rgb(145, 68, 100);
+  border-radius: 20px;
+}
+h2 {
+  text-align: center;
+}
+.container div {
+  text-align: center;
+}
+input {
+  width: 350px;
+  padding: 10px;
+}
+button {
+  width: 80px;
+  padding: 10px;
+  margin: 10px;
+  font-family: 'Times New Roman'
+  font-size: 16px;
+  background-color: rgb(223, 81, 175);
+  border: none;
+  color: rgb(31, 4, 14);
+  border-radius: 10px;
+}
